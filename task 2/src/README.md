@@ -30,3 +30,6 @@ npm run dev
 ## Screenshots
 
 Screenshots are available in the `screenshots` folder.
+
+##local host 
+http://localhost:4173/
